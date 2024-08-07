@@ -112,6 +112,12 @@ main {
 .team-details .team-goal, .team-details .team-promise {
     margin: 20px 0;
 }
+.team-rule {
+    text-align: left;
+    margin-left: 20%;
+    margin-right: 20%;
+    line-height: 1.8;
+}
 
 .team-details h3 {
     font-size: 18px;
