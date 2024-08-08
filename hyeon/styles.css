@@ -38,6 +38,10 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: fixed;
+    top: 0;
+    width: calc(100% - 30px);
+    z-index: 1000;
 }
 
 .logo {
@@ -133,7 +137,7 @@ main {
 }
 
 .team-details .team-goal, .team-details .team-promise {
-    margin: 20px 0;
+    margin: 40px 0;
 }
 .team-rule {
     text-align: left;
