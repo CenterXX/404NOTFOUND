@@ -499,3 +499,8 @@ header.dark-mode {
 .github-button:hover svg {
     fill: #5a67d8;
 }
+.team-logo-image
+{
+    width: 80%;
+    height: 80%;
+}
