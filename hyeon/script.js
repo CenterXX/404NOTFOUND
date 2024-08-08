@@ -47,7 +47,7 @@ function createMemberElement(member) {
             <p>${member.description}</p>
             <p class="mbti">MBTI: ${member.mbti}</p>
         </div>
-        <button class="member-button" onclick="openModal('${member.name}')">Button</button>
+        <button class="member-button" onclick="openModal('${member.name}')">Info</button>
         <button class="delete-member-button" onclick="deleteMember('${member.id}')">X</button>
     `;
 
