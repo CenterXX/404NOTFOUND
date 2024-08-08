@@ -460,6 +460,10 @@ header.dark-mode {
     color: #ffffff;
 }
 
+.github-button.dark-mode svg {
+    fill: #ffffff;
+}
+
 .github-button.dark-mode:hover svg {
     fill: #ffffff;
 }
